@@ -4,4 +4,4 @@ function diffArray(arr1, arr2) {
 };
 
 diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
-console.log(["andesite", "grass", "dirt", "pink wool", "dead shrub"], ["diorite", "andesite", "grass", "dirt", "dead shrub"]);
+["andesite", "grass", "dirt", "pink wool", "dead shrub"], ["diorite", "andesite", "grass", "dirt", "dead shrub"];
